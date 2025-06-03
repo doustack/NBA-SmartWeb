@@ -50,4 +50,4 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/doustack/NBA-SmartWeb.git
-cd NBA-Smartweb
+cd NBA-SmartWeb
